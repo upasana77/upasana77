@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Upasana Purohit</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
-- 🔭 I’m currently working on **AHRC Nassau, medisked-department**
+- 🔭 I’m currently working on **Health-Care-Data(medisked)t**
 
 - 🌱 I’m currently learning **Machine-Learning-Algorithm**
 
